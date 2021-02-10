@@ -56,6 +56,10 @@ We have trained a custom deep learning model to identify aircrafts (object detec
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Aircraft2.jpg?raw=true">
 
+### Animated Aircraft Video (Deep Learning based Aircraft Detection from Satellite Imagery) ###
+
+<a href="https://youtu.be/VmhMHKb-OPc" target="_blank"><img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Animated%20Aircraft%20Video.png?raw=true" width="75%" height="400" /></a> 
+
 - - - -
 
 ## Conclusion ##
