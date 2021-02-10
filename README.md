@@ -74,3 +74,16 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
 __Phone : 9944865029__
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/About%20ETOP%20Technologies_Github.png?raw=true">
+
+The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
+
+Like every business across the World, we too got impacted and affected by Coronavirus.
+
+We are navigating the business impact of Covid-19 through self-motivation and Innovation.
+
+This work is part of our journey towards Recovery and Reinvention.
+
+#EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
+
+
+<img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/CoronaPandemic.jpeg?raw=true">
