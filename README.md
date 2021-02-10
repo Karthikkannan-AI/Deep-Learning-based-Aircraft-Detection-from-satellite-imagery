@@ -9,6 +9,7 @@
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#conclusion)
 * [Contact Us](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#contact-us)
+* [Rebounding from COVID-19]()
 
 - - - -
 
@@ -87,6 +88,10 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
 __Phone : 9944865029__
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/About%20ETOP%20Technologies_Github.png?raw=true">
+
+- - - -
+
+## Rebounding from COVID-19 ##
 
 The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
 
