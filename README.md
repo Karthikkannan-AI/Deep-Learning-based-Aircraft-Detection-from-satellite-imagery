@@ -14,7 +14,7 @@
 
 ## Introduction  ##
 
-We have trained a custom neural network to identify aircrafts (object detection) from high resoulution satellite imagery*.
+We have trained a custom deep learining model to identify aircrafts (object detection) from high resoulution satellite imagery*.
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Introduction.jpeg?raw=true">
 
