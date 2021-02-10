@@ -39,11 +39,11 @@ We have trained a custom neural network to identify aircrafts (object detection)
 
 ### Evaluation of the Proposed Solution ###
 
-### Test - 1 ###
+### Test - 1 (Deep Learning based Aircraft Detection from Satellite Imagery) ###
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Aircraft1.jpg?raw=true">
 
-### Test - 2 ###
+### Test - 2 (Deep Learning based Aircraft Detection from Satellite Imagery) ###
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Aircraft2.jpg?raw=true">
 
