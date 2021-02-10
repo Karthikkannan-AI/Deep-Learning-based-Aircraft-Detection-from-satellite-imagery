@@ -14,11 +14,19 @@
 
 ## Introduction  ##
 
+__Geospatial Intelligence Powered by AI__ 
+
+Artificial Intelligence (AI) is ushering a new age of information and applications for the satellite industry. 
+As Earth Observation (EO) satellites continue to capture higher levels of resolution, AI can transform how data is processed both in space, and on Earth, increasing the speed at which insights can be delivered to customers. 
+Here we showcase one such example of Geospatial intelligence powered by AI to identify Aircrafts from Satellite Imagery.
+
 We have trained a custom deep learning model to identify aircrafts (object detection) from high resoulution satellite imagery*.
 
 <img src="https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery/blob/main/resources/Introduction.jpeg?raw=true">
 
 *-For test and evaluation purpose we have downloaded the imagery from Google Earth. The Image copyright belongs to Maxar Technologies.
+
+
 
 - - - -
 
