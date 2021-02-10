@@ -8,7 +8,6 @@
   * [Solution Workflow](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#conclusion)
-* [References](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#references)
 * [Contact Us](https://github.com/Karthikkannan-AI/Deep-Learning-based-Aircraft-Detection-from-satellite-imagery#contact-us)
 
 - - - -
@@ -50,12 +49,6 @@ We have trained a custom neural network to identify aircrafts (object detection)
 - - - -
 
 ## Conclusion ##
-
-
-
-- - - -
-
-## References ##
 
 
 
