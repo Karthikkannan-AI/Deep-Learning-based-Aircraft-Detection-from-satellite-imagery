@@ -65,7 +65,7 @@ We have trained a custom deep learning model to identify aircrafts (object detec
 
 ## Conclusion ##
 
-
+This project is purely done for Demonstration purposes. We have showcased this project deploying multiple neural networks simultaneously for the detection of Aircrafts from Satellite Imagery.
 
 - - - -
 
